@@ -1,6 +1,6 @@
 # URL Shortener
 
-This URL shortener project is designed as part of the recruitment process for Payroc, showcasing a simple yet effective approach to creating shortened URLs with Spring Boot.
+This URL shortener project is showcasing a simple yet effective approach to creating shortened URLs with Spring Boot.
 
 ## Dependencies
 
